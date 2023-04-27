@@ -2,3 +2,4 @@ file1
 modify
 branch1 - new branch
 branch2
+branch3
